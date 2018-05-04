@@ -18,7 +18,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    _txtContraseña.text = @"Hola";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
